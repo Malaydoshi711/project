@@ -16,3 +16,4 @@ Code used for making this game is written with help of Inheritance and polymorph
    - Create a derived class, "NumberGuessingGame," that implements the specific rules and gameplay for the number guessing game. This class should override the "play" function.
 
 Class Diagram link as follows:
+https://github.com/Malaydoshi711/project/blob/main/class_diagram.jpg
